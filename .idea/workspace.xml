@@ -4,11 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59d8e656-fb97-40d7-a6c3-b40437fffd88" name="Changes" comment="" />
+    <list default="true" id="59d8e656-fb97-40d7-a6c3-b40437fffd88" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/browserfactory/ManageBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/BuildYourOwnComputerPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/BuildYourOwnComputerPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/CellPhonePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/CellPhonePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/CheckOutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/CheckOutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/ComputersPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/ComputersPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/ElectronicsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/ElectronicsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/ShoppingCartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/ShoppingCartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/propertyreader/PropertyReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/propertyreader/PropertyReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/utility/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/utility/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/runner/RegressionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/runner/RegressionRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/runner/SanityRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/runner/SanityRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/runner/SmokeRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/runner/SmokeRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/steps/ElectronicsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/steps/ElectronicsSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/steps/TestSuiteSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/steps/TestSuiteSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/steps/TopMenuSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/steps/TopMenuSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/extentreport/extent-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/featurefile/electronic.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/electronic.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/featurefile/testsuite.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/testsuite.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/featurefile/topmenu.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/topmenu.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -18,18 +59,42 @@
     </option>
   </component>
   <component name="ProjectId" id="2PtbeeajGeco100kazBBKKito9X" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="RegressionRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-nopcommerce-sw-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.runner.RegressionRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RegressionRunner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
